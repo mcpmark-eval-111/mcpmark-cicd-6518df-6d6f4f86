@@ -1,7 +1,2 @@
-const unused = "double quotes";
-
-function test() {
-  const x = "world"
-}
-
-test();
+const greeting = 'Hello World';
+module.exports = { greeting };
