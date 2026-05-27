@@ -1,2 +1,4 @@
-const greeting = 'Hello World';
-module.exports = { greeting };
+const exampleVar = 'hello';
+
+// eslint-disable-next-line no-console
+console.log(exampleVar);
