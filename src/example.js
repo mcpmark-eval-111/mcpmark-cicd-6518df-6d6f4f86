@@ -1,3 +1,3 @@
-const unusedVar = "This is unused";
-const name = "John";
-console.log(name)
+const unusedVar = "hello"
+
+console.log(unusedVar)
