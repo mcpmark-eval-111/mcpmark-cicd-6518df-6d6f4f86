@@ -1,3 +1,7 @@
-const unusedVar = "hello"
+const unused = "double quotes";
 
-console.log(unusedVar)
+function test() {
+  const x = "world"
+}
+
+test();
